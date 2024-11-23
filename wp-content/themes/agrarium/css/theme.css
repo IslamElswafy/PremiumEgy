@@ -16591,7 +16591,7 @@ body
 }
 .agrarium_content_slider_widget .container-boxed {
   max-width: 1170px;
-  margin: 0 auto;
+  /* margin: 0 auto; */
   box-sizing: content-box;
 }
 .agrarium_content_slider_widget .icon {
